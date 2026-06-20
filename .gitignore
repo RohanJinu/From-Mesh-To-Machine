@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Blender backup/lock files
+*.blend1
+*.blend2
+*.blend3
+*~.blend
+
+# Unreal Engine (in case any UE files are added later)
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+*.sln
+
+# Editor/IDE
+.vscode/
+.idea/
