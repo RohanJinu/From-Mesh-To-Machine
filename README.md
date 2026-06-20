@@ -51,5 +51,8 @@ This was built with moderate prior experience in Blender and beginner-level expe
 
 ---
 
-*Built by Rohan Jinu — www.linkedin.com/in/rohanjinu
+*Built by Rohan Jinu — www.linkedin.com/in/rohanjinu*
+
 © 2026 Rohan Jinu. All rights reserved. Shared for portfolio/demonstration purposes only.
+---
+
