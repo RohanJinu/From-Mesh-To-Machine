@@ -8,6 +8,8 @@
 
 A solo passion project: modeling a Ford Mustang GT 2024 from scratch in Blender, then bringing it to life as a fully drivable car in Unreal Engine 5 — complete with a custom race track, UI, and audio system.
 
+<img width="1920" height="1080" alt="Ford Mustang Render" src="https://github.com/user-attachments/assets/c1fabdab-b5eb-42ca-bcac-63975dfeedb1" />
+
 ## 🎥 Gameplay Demo
 https://github.com/user-attachments/assets/53c965fb-76e1-4e26-b8b3-b2086c5dd4af
 
