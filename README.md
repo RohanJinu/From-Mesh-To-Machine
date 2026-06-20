@@ -43,7 +43,7 @@ This project was built end-to-end by one person over the course of a month, comb
 - **Blender** — modeling, UV unwrapping, rendering
 - **Unreal Engine 5** — vehicle physics, Blueprints, level design, lighting
 - **Figma** — UI design
-- *(Audio tools used, if any — edit this line)*
+- **Davinci Resolve** — Audio Design
 
 ## Notes
 
@@ -51,4 +51,4 @@ This was built with moderate prior experience in Blender and beginner-level expe
 
 ---
 
-*Built by [Your Name] — [LinkedIn](#) · [Portfolio](#)*
+*Built by Rohan Jinu — www.linkedin.com/in/rohanjinu
